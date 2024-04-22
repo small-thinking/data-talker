@@ -21,10 +21,8 @@ from voice import generate_transcription
 # Global flag for recording control
 is_recording = threading.Event()
 latest_message = ""  # Global variable to hold the transcription text
-last_num_message = 0
 
-csv_path = os.path.join(os.path.dirname(__file__), "../example.csv")
-df = pd.read_csv(csv_path)
+df: pd.DataFrame = None
 df_process_tool = DataFrameProcessTool()
 chat_history_df = pd.DataFrame(columns=["Timestamp", "User", "Message"])
 
@@ -93,24 +91,6 @@ def toggle_voice_input(toggle_values):
         return "Voice recording stopped."
 
 
-# @callback(
-#     Output("chat-update-from-voice", "data"),
-#     Input("interval-component", "n_intervals"),
-#     State("voice-input-toggle", "value"),
-# )
-# def update_from_voice_input(n, toggle_values):
-#     """This callback is triggered by the interval component and checks if voice input is enabled.
-#     If voice input is enabled, it returns the latest transcription to update the chat update from voice.
-#     """
-#     global latest_message
-#     if "voice_input" in toggle_values and latest_message:
-#         print(f"Interval triggered. Latest transcription: {latest_message}")
-#         return (
-#             latest_message  # Return the latest transcription if voice input is enabled
-#         )
-#     return None  # Signal that no update is needed
-
-
 @callback(
     Output("chat-history-table", "data"),
     Input("interval-component", "n_intervals"),
@@ -138,6 +118,7 @@ def update_chat_history(n_interval, chat_history_data):
 @callback(
     Output("my-grid", "rowData"),
     Output("my-grid", "columnDefs"),
+    Output("requirement-input", "value"),
     Input("chat-history-table", "data"),
 )
 def update_ag_grid_table(chat_history_data):
@@ -159,7 +140,7 @@ def update_ag_grid_table(chat_history_data):
         {"field": col, "headerName": col} for col in output_df.columns.tolist()
     ]
     output_df_records = output_df.to_dict("records")
-    return output_df_records, output_df_column_defs
+    return output_df_records, output_df_column_defs, ""
 
 
 def create_chat_history_table():
@@ -306,6 +287,9 @@ def generate_interactive_table(table_div: html.Div):
 
 
 async def main():
+    global df
+    csv_path = os.path.join(os.path.dirname(__file__), "../example.csv")
+    df = pd.read_csv(csv_path)
     table_div = create_ag_grid_table(df)
     generate_interactive_table(table_div)
 
