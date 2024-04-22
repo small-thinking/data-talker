@@ -1,5 +1,7 @@
-# data-talker
-Talk with your data in the human way.
+# Data Talker
+Talk with your data in the human way. Enabling users to interact with data in a conversational way, without the need to know SQL/Python/R/Spark.
+
+![IMAGE ALT TEXT HERE](./image.png)
 
 ## How to use
 ### Configure environment
