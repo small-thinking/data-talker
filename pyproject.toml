@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "data-talker"
+version = "0.1.0"
+description = "Talk with your data in the human way."
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9, <3.13"
+dash = "^2.16.1"
+dash-ag-grid = "^31.0.1"
+pandas = "^2.2.2"
+openai = "^1.23.2"
+pygame = "^2.5.2"
+PyAudio = "^0.2.14"
+polymind = "^0.0.41"
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.4.0"
+isort = "^5.13.2"
+flake8 = "^7.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

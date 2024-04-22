@@ -1,0 +1,221 @@
+Country,City,Continent,Population,Area,GDP
+China,Beijing,Asia,21000000,16411,650000000000
+China,Shanghai,Asia,24000000,6340,594000000000
+China,Guangzhou,Asia,15000000,7434,339000000000
+China,Shenzhen,Asia,12000000,1997,400000000000
+China,Chengdu,Asia,16000000,14352,237000000000
+China,Beijing,Asia,21000000,16411,650000000000
+China,Shanghai,Asia,24000000,6340,594000000000
+China,Guangzhou,Asia,15000000,7434,339000000000
+China,Shenzhen,Asia,12000000,1997,400000000000
+China,Chengdu,Asia,16000000,14352,237000000000
+China,Tianjin,Asia,13000000,11900,378000000000
+China,Nanjing,Asia,8000000,6587,251000000000
+China,Wuhan,Asia,11000000,8569,224000000000
+China,Xi'an,Asia,12000000,9982,198000000000
+China,Hangzhou,Asia,10000000,16853,275000000000
+Japan,Tokyo,Asia,13500000,2191,1600000000000
+Japan,Yokohama,Asia,3700000,437,500000000000
+Japan,Osaka,Asia,2700000,225,684000000000
+Japan,Nagoya,Asia,2300000,326,341000000000
+Japan,Sapporo,Asia,1900000,1121,190000000000
+Japan,Kobe,Asia,1500000,552,220000000000
+Japan,Kyoto,Asia,1500000,827,165000000000
+Japan,Fukuoka,Asia,1600000,340,210000000000
+Japan,Kawasaki,Asia,1500000,143,130000000000
+Japan,Hiroshima,Asia,1200000,905,119000000000
+South Korea,Seoul,Asia,9700000,605,678000000000
+South Korea,Busan,Asia,3400000,767,304000000000
+South Korea,Incheon,Asia,3000000,1062,297000000000
+South Korea,Daegu,Asia,2400000,883,256000000000
+South Korea,Daejeon,Asia,1500000,539,141000000000
+South Korea,Gwangju,Asia,1500000,501,119000000000
+South Korea,Ulsan,Asia,1200000,1060,134000000000
+South Korea,Suwon,Asia,1200000,121,98000000000
+South Korea,Seongnam,Asia,1000000,141,85000000000
+South Korea,Goyang,Asia,1000000,267,83000000000
+South Korea,Changwon,Asia,1100000,294,79000000000
+South Korea,Yongin,Asia,1000000,175,71000000000
+South Korea,Ansan,Asia,700000,149,68000000000
+South Korea,Jeonju,Asia,650000,206,50000000000
+South Korea,Cheongju,Asia,800000,153,48000000000
+Russia,Moscow,Europe/Asia,12400000,2561,1300000000000
+Russia,Saint Petersburg,Europe/Asia,5300000,1439,600000000000
+Russia,Novosibirsk,Europe/Asia,1600000,505,80000000000
+Russia,Yekaterinburg,Europe/Asia,1400000,495,70000000000
+Russia,Kazan,Europe/Asia,1200000,425,40000000000
+Russia,Nizhny Novgorod,Europe/Asia,1300000,466,35000000000
+Russia,Chelyabinsk,Europe/Asia,1200000,530,30000000000
+Russia,Samara,Europe/Asia,1200000,541,28000000000
+Russia,Omsk,Europe/Asia,1100000,572,25000000000
+Russia,Rostov-on-Don,Europe/Asia,1100000,354,22000000000
+United States,New York,North America,8400000,783,1400000000000
+United States,Los Angeles,North America,4000000,1214,700000000000
+United States,Chicago,North America,2700000,606,610000000000
+United States,Houston,North America,2300000,1606,480000000000
+United States,Phoenix,North America,1700000,1340,230000000000
+United States,Philadelphia,North America,1600000,347,420000000000
+United States,San Antonio,North America,1500000,1210,125000000000
+United States,San Diego,North America,1400000,842,245000000000
+United States,Dallas,North America,1300000,881,340000000000
+United States,San Jose,North America,1000000,467,275000000000
+Canada,Toronto,North America,2900000,630,332000000000
+Canada,Montreal,North America,1800000,431,154000000000
+Canada,Vancouver,North America,700000,115,136000000000
+Canada,Calgary,North America,1300000,825,123000000000
+Canada,Edmonton,North America,1000000,684,88000000000
+Canada,Ottawa,North America,1000000,2790,82000000000
+Canada,Winnipeg,North America,700000,464,41000000000
+Canada,Quebec City,North America,500000,454,33000000000
+Canada,Hamilton,North America,500000,1138,25000000000
+Canada,Kitchener,North America,500000,136,15000000000
+Mexico,Mexico City,North America,9200000,1485,403000000000
+Mexico,Guadalajara,North America,1500000,151,81000000000
+Mexico,Monterrey,North America,1100000,324,122000000000
+Mexico,Puebla,North America,1400000,534,26000000000
+Mexico,Toluca,North America,800000,420,36000000000
+Mexico,Tijuana,North America,1800000,637,43000000000
+Mexico,Leon,North America,1600000,1171,55000000000
+Mexico,Juarez,North America,1400000,321,33000000000
+Mexico,Torreon,North America,700000,1968,28000000000
+Mexico,Merida,North America,800000,858,23000000000
+Brazil,São Paulo,South America,12300000,1521,430000000000
+Brazil,Rio de Janeiro,South America,6700000,1200,209000000000
+Brazil,Salvador,South America,2900000,693,85000000000
+Brazil,Fortaleza,South America,2700000,313,50000000000
+Brazil,Belo Horizonte,South America,2500000,331,84000000000
+Brazil,Brasília,South America,3000000,5800,161000000000
+Brazil,Curitiba,South America,1900000,432,58000000000
+Brazil,Manaus,South America,2200000,11401,42000000000
+Brazil,Recife,South America,1600000,218,35000000000
+Brazil,Porto Alegre,South America,1500000,496,48000000000
+Argentina,Buenos Aires,South America,15200000,203,245000000000
+Argentina,Cordoba,South America,1400000,576,22000000000
+Argentina,Rosario,South America,1200000,178,18000000000
+Argentina,Mendoza,South America,1100000,54,12000000000
+Argentina,La Plata,South America,800000,940,10000000000
+Argentina,San Miguel de Tucumán,South America,600000,90,7000000000
+Argentina,Mar del Plata,South America,600000,79,6000000000
+Argentina,Salta,South America,500000,155,4000000000
+Argentina,Santa Fe,South America,400000,268,3500000000
+Argentina,Corrientes,South America,300000,500,3000000000
+Chile,Santiago,South America,7100000,641,177000000000
+Chile,Valparaíso,South America,900000,401,24000000000
+Chile,Concepción,South America,800000,221,22000000000
+Chile,La Serena,South America,200000,1892,5000000000
+Chile,Antofagasta,South America,400000,30740,18000000000
+Chile,Temuco,South America,300000,464,3000000000
+Chile,Rancagua,South America,200000,260,4000000000
+Chile,Arica,South America,200000,4795,2500000000
+Chile,Talca,South America,200000,232,1500000000
+Chile,Puerto Montt,South America,200000,1675,1200000000
+Egypt,Cairo,Africa,10230350,528,338600000000
+Egypt,Alexandria,Africa,5780000,2679,151000000000 
+Egypt,Giza,Africa,4239988,1579,102000000000
+Egypt,Shubra El-Kheima,Africa,1246620,58,23000000000
+Egypt,Port Said,Africa,764219,1354,20500000000
+Egypt,Suez,Africa,684892,17,17900000000
+Egypt,Luxor,Africa,586191,416,3780000000
+Egypt,Al-Mansurah,Africa,570753,1593,15900000000
+Egypt,Tanta,Africa,562202,205,10700000000
+Egypt,Asyut,Africa,478362,132,6800000000
+Saudi Arabia,Riyadh,Asia,7926750,1913,274300000000 
+Saudi Arabia,Jeddah,Asia,4630000,1765,168400000000
+Saudi Arabia,Mecca,Asia,2150000,760,69000000000
+Saudi Arabia,Medina,Asia,1341371,589,42800000000
+Saudi Arabia,Dammam,Asia,1323000,800,47300000000
+Saudi Arabia,Ta'if,Asia,1012000,684,33200000000
+Saudi Arabia,Buraydah,Asia,701920,1397,21400000000
+Saudi Arabia,Tabuk,Asia,610899,108,19000000000
+Saudi Arabia,Khamis Mushait,Asia,572100,450,14200000000
+Saudi Arabia,Al Hofuf,Asia,520335,373,13400000000
+Congo,Kinshasa,Africa,17078000,9965,54500000000
+Congo,Lubumbashi,Africa,2639000,1044,14200000000
+Congo,Mbuji-Mayi,Africa,2115000,133,7230000000 
+Congo,Kolwezi,Africa,1207500,2170,3050000000
+Congo,Kananga,Africa,1136000,847,2160000000
+Congo,Kisangani,Africa,1030000,1910,2450000000
+Congo,Likasi,Africa,507698,235,1090000000 
+Congo,Boma,Africa,477212,65,982000000 
+Congo,Tshikapa,Africa,425324,38,879000000
+Congo,Bukavu,Africa,391038,60,750000000  
+Morocco,Casablanca,Africa,4370000,387,123100000000
+Morocco,Fez,Africa,1224000,320,18900000000
+Morocco,Tangier,Africa,1065000,116,23100000000  
+Morocco,Marrakesh,Africa, 992000,230,25300000000
+Morocco,Rabat,Africa,627000,118,21700000000
+Morocco,Meknes,Africa,616000,1787,20300000000   
+Morocco,Sale,Africa,587860,110,16400000000
+Morocco,Agadir,Africa,487954,118,13800000000
+Morocco,Oujda,Africa,477100,95,12300000000
+Morocco,Kenitra,Africa,462018,80,10900000000   
+South Africa,Cape Town,Africa,4700000,2444,172700000000  
+South Africa,Durban,Africa,3950000,2292,92800000000
+South Africa,Johannesburg,Africa,3435000,1645,91300000000 
+South Africa,Pretoria,Africa,2472000,687,65000000000  
+South Africa,Soweto,Africa,1695000,200,26100000000 
+South Africa,Port Elizabeth,Africa,1303000,251,30100000000
+South Africa,Pietermaritzburg,Africa,901000,628,19200000000
+South Africa,Benoni,Africa,706000,172,19600000000 
+South Africa,Tembisa,Africa,511000,71,11300000000  
+South Africa,Vereeniging,Africa,474000,301,12600000000 
+Greece,Athens,Europe,3775000,2929,244000000000
+Greece,Thessaloniki,Europe,824000,19,60000000000
+Greece,Patras,Europe,213000,104,13400000000 
+Greece,Heraklion,Europe,173000,120,10400000000
+Greece,Larissa,Europe,162000,335,9590000000
+Greece,Volos,Europe,144000,385,8960000000
+Greece,Ioannina,Europe,112000,17,6450000000
+Greece,Trikala,Europe,81000,607,5230000000
+Greece,Chalkida,Europe,59000,412,3850000000
+Greece,Serres,Europe,58000,396,3780000000
+Turkey,Istanbul,Europe,16655000,5343,895000000000
+Turkey,Ankara,Europe,5747000,2516,280300000000
+Turkey,Izmir,Europe,3276000,12000,106600000000 
+Turkey,Bursa,Europe,3161000,1036,75300000000 
+Turkey,Adana,Europe,2370000,1945,50600000000
+Turkey,Gaziantep,Europe,2170000,2138,53800000000
+Turkey,Konya,Europe,2274000,38873,50600000000
+Turkey,Antalya,Europe,1466000,20935,62100000000
+Turkey,Diyarbakir,Europe,1016000,15321,17700000000
+Turkey,Mersin,Europe,995000,1573,25000000000 
+Serbia,Belgrade,Europe,1717000,3222,61500000000 
+Serbia,Novi Sad,Europe,389000,699,13900000000
+Serbia,Nis,Europe,260000,597,9780000000
+Serbia,Kragujevac,Europe,179000,835,6620000000
+Serbia,Subotica,Europe,97000,1008,3450000000
+Serbia,Zrenjanin,Europe,76000,1324,2720000000
+Serbia,Leskovac,Europe,60000,1025,2510000000
+Serbia,Krusevac,Europe,58000,854,2340000000 
+Serbia,Valjevo,Europe,58000,905,2200000000
+Serbia,Smederevo,Europe,64000,484,2150000000 
+France,Paris,Europe,2165000,105,843800000000
+France,Marseille,Europe,870000,241,189000000000
+France,Lyon,Europe,522000,48,103100000000
+France,Toulouse,Europe,498000,118,77400000000
+France,Nice,Europe,341000,71,55600000000 
+France,Nantes,Europe,320000,52,54300000000
+France,Montpellier,Europe,299000,57,49500000000
+France,Strasbourg,Europe,291000,79,47600000000
+France,Bordeaux,Europe,262000,49,44000000000
+France,Lille,Europe,236000,35,43900000000
+Germany,Berlin,Europe,3677000,891,582200000000
+Germany,Hamburg,Europe,1948000,755,168200000000
+Germany,Munich,Europe,1564000,310,138900000000
+Germany,Cologne,Europe,1088000,405,132300000000
+Germany,Frankfurt am Main,Europe,764000,248,123600000000 
+Germany,Stuttgart,Europe,639000,207,102600000000 
+Germany,Dusseldorf,Europe,622000,217,100900000000 
+Germany,Leipzig,Europe,602000,298,78000000000 
+Germany,Dortmund,Europe,589000,280,77600000000
+Germany,Essen,Europe,584000,210,73900000000
+Spain,Madrid,Europe,3410000,604,330800000000
+Spain,Barcelona,Europe,1656000,102,219000000000
+Spain,Valencia,Europe,800000,135,85900000000
+Spain,Seville,Europe,684000,140,50200000000 
+Spain,Zaragoza,Europe,675000,974,41600000000  
+Spain,Malaga,Europe,580000,395,38300000000
+Spain,Murcia,Europe,462000,882,24600000000
+Spain,Palma,Europe,416000,21,25800000000
+Spain,Las Palmas,Europe,379000,101,21500000000
+Spain,Bilbao,Europe,345000,42,29700000000
